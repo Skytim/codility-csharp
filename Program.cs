@@ -20,6 +20,12 @@ namespace CodeilityCSharp
                 var OddOccurencleArray = new OddOccurrencesInArray();
                 Console.WriteLine(OddOccurencleArray.solution(A));
             }
+             if (line == "3")
+            {
+                int[] A = { 3, 1, 2, 4, 3 };
+                var OddOccurencleArray = new TapeEquilibrium();
+                Console.WriteLine(OddOccurencleArray.solution(A));
+            }
         }
     }
 }
