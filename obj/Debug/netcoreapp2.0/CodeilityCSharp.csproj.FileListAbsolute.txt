@@ -1,0 +1,10 @@
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\bin\Debug\netcoreapp2.0\CodeilityCSharp.deps.json
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\bin\Debug\netcoreapp2.0\CodeilityCSharp.runtimeconfig.json
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\bin\Debug\netcoreapp2.0\CodeilityCSharp.runtimeconfig.dev.json
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\bin\Debug\netcoreapp2.0\CodeilityCSharp.dll
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\bin\Debug\netcoreapp2.0\CodeilityCSharp.pdb
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\obj\Debug\netcoreapp2.0\CodeilityCSharp.csproj.CoreCompileInputs.cache
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\obj\Debug\netcoreapp2.0\CodeilityCSharp.AssemblyInfoInputs.cache
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\obj\Debug\netcoreapp2.0\CodeilityCSharp.AssemblyInfo.cs
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\obj\Debug\netcoreapp2.0\CodeilityCSharp.dll
+c:\Users\sky22\Documents\SideProject\CodeilityCSharp\obj\Debug\netcoreapp2.0\CodeilityCSharp.pdb

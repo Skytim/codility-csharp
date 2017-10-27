@@ -1,0 +1,25 @@
+﻿using System;
+
+namespace CodeilityCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter input:"); // Prompt
+            string line = Console.ReadLine(); // Get string from use
+            if (line == "1")
+            {
+                var binaryGap = new BinaryGap();
+                Console.WriteLine(binaryGap.solution(9));
+                Console.WriteLine(binaryGap.solution(12320));
+            }
+            if (line == "2")
+            {
+                int[] A = { 9, 3, 9, 3, 9, 7, 9 };
+                var OddOccurencleArray = new OddOccurrencesInArray();
+                Console.WriteLine(OddOccurencleArray.solution(A));
+            }
+        }
+    }
+}
