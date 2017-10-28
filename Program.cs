@@ -26,6 +26,12 @@ namespace CodeilityCSharp
                 var OddOccurencleArray = new TapeEquilibrium();
                 Console.WriteLine(OddOccurencleArray.solution(A));
             }
+             if (line == "4")
+            {
+                int[] A = { 3, 8, 9, 7, 6 };
+                var OddOccurencleArray = new CyclicRotation();
+                Console.WriteLine(OddOccurencleArray.solution(A,3));
+            }
         }
     }
 }
