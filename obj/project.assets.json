@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\CodeilityCSharp.csproj",
+      "projectUniqueName": "c:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\CodeilityCSharp.csproj",
       "projectName": "CodeilityCSharp",
-      "projectPath": "C:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\CodeilityCSharp.csproj",
+      "projectPath": "c:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\CodeilityCSharp.csproj",
       "packagesPath": "C:\\Users\\sky22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\obj\\",
+      "outputPath": "c:\\Users\\sky22\\Documents\\SideProject\\CodeilityCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
