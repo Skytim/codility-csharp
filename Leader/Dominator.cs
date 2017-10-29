@@ -23,7 +23,8 @@ namespace CodeilityCSharp
                         count++;
                         elem = i;
                     }
-                    else count--;
+                    else 
+                        count--;
                 }
             }
 

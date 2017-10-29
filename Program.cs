@@ -127,6 +127,14 @@ namespace CodeilityCSharp
                 Console.WriteLine(fish.solution(A, B));
 
             }
+            if (line == "20")
+            {
+                int[] A = { 3, 4, 3, 2, 3, -1, 3, 3 };
+
+                var dominator = new Dominator();
+                Console.WriteLine(dominator.solution(A));
+
+            }
         }
     }
 }
