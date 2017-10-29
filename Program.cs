@@ -1,4 +1,5 @@
 ﻿using System;
+using CodeilityCSharp;
 namespace CodeilityCSharp
 {
     class Program
@@ -67,7 +68,63 @@ namespace CodeilityCSharp
             {
                 int[] A = { 3, 4, 4, 6, 1, 4, 4 };
                 var maxCounters = new MaxCounters();
-                Console.WriteLine(maxCounters.solution(5,A));
+                Console.WriteLine(maxCounters.solution(5, A));
+
+            }
+
+            if (line == "13")
+            {
+                int[] A = { 0, 1, 0, 1, 1 };
+                var maxCounters = new PassingCars();
+                Console.WriteLine(maxCounters.solution(A));
+
+            }
+            if (line == "14")
+            {
+                int[] A = { 4, 2, 2, 5, 1, 5, 8 };
+                var minAvgTwoSlice = new MinAvgTwoSlice();
+                Console.WriteLine(minAvgTwoSlice.solution(A));
+
+            }
+            if (line == "15")
+            {
+                int[] A = { 2, 5, 0 };
+                int[] B = { 4, 5, 6 };
+                var genomicRangeQuery = new GenomicRangeQuery();
+                Console.WriteLine(genomicRangeQuery.solution("CAGCCTA", A, B));
+
+            }
+            if (line == "15")
+            {
+                int[] A = { 1, 2, 3 };
+
+                var distinct = new Distinct();
+                Console.WriteLine(distinct.solution(A));
+
+            }
+            if (line == "16")
+            {
+                int[] A = { 1, 5, 2, 1, 4, 0 };
+
+                var numberOfDiscIntersections = new NumberOfDiscIntersections();
+                Console.WriteLine(numberOfDiscIntersections.solution(A));
+
+            }
+
+            if (line == "18")
+            {
+                var A = "{[()()]}";
+
+                var brackets = new Brackets();
+                Console.WriteLine(brackets.solution(A));
+
+            }
+            if (line == "19")
+            {
+                int[] A = { 4, 3, 2, 1, 5 };
+                int[] B = { 0, 1, 0, 0, 0, 0 };
+                var fish = new Fish();
+                Console.WriteLine(fish.solution(A, B));
 
             }
         }

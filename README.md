@@ -37,5 +37,5 @@ dotnet run
 1. PermCheck.cs: https://codility.com/programmers/lessons/4-counting_elements/perm_check/
 1. FrogRiverOne.cs: https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 1. MissingInteger.cs: https://codility.com/programmers/lessons/4-counting_elements/missing_integer/
-1. MaxCounters.cs: https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/
+1. MaxCounters.cs: https://codility.com/programmers/lessons/4-counting_elements/max_counters/
 
