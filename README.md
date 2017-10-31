@@ -39,3 +39,16 @@ dotnet run
 1. MissingInteger.cs: https://codility.com/programmers/lessons/4-counting_elements/missing_integer/
 1. MaxCounters.cs: https://codility.com/programmers/lessons/4-counting_elements/max_counters/
 
+**Lesson5 Prefix Sums**
+
+1. CountDiv.cs: https://codility.com/programmers/lessons/5-prefix_sums/count_div/
+1. PassingCars.cs: https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+1. MinAvgTwoSlice.cs: https://codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+1. GenomicRangeQuery.cs: https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
+
+**IndeedPrime2015**
+
+1. LongestPassword.cs: https://codility.com/programmers/lessons/90-tasks_from_indeed_prime_2015_challenge/longest_password/
+1. FloodDepth.cs: https://codility.com/programmers/lessons/90-tasks_from_indeed_prime_2015_challenge/flood_depth/
+1. SlalomSkiing.cs: https://codility.com/programmers/lessons/90-tasks_from_indeed_prime_2015_challenge/slalom_skiing/
+

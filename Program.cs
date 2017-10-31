@@ -135,6 +135,30 @@ namespace CodeilityCSharp
                 Console.WriteLine(dominator.solution(A));
 
             }
+            if (line == "21")
+            {
+                var S = "test 5 a0A pass007 ?xy1";
+
+                var longestPassword = new LongestPassword();
+                Console.WriteLine(longestPassword.solution(S));
+
+            }
+            if (line == "22")
+            {
+                int[] A = { 1, 3, 2, 1, 2, 1, 5, 3, 3, 4, 2 };
+
+                var floodDepth = new FloodDepth();
+                Console.WriteLine(floodDepth.solution(A));
+
+            }
+            if (line == "23")
+            {
+                int[] A = { 15, 13, 5, 7, 4, 10, 12, 8, 2, 11, 6, 9, 3 };
+
+                var slalomSkiing = new SlalomSkiings();
+                Console.WriteLine(slalomSkiing.solution(A));
+
+            }
         }
     }
 }
